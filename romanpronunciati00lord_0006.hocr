@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./romanpronunciati00lord_0006.png"; bbox 0 0 2204 3469; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 836 1604 1418 1703">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 836 1604 1418 1703">
+     <span class='ocr_line' id='line_1_1' title="bbox 960 1604 1294 1644; baseline -0.003 -8"><span class='ocrx_word' id='word_1_1' title='bbox 960 1604 1200 1643; x_wconf 67' lang='lat' dir='ltr'>Copvmcm,</span> <span class='ocrx_word' id='word_1_2' title='bbox 1217 1605 1294 1644; x_wconf 86' lang='lat'>1894</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 836 1670 1418 1703; baseline 0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 836 1672 890 1703; x_wconf 78' lang='lat' dir='ltr'>Bv</span> <span class='ocrx_word' id='word_1_4' title='bbox 924 1670 1162 1703; x_wconf 89' lang='lat' dir='ltr'><strong>FRANCES</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1201 1671 1241 1702; x_wconf 92' lang='lat' dir='ltr'>E.</span> <span class='ocrx_word' id='word_1_6' title='bbox 1278 1670 1418 1703; x_wconf 90' lang='lat' dir='ltr'><strong>LORD</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1022 1739 1231 1743">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1022 1739 1231 1743">
+     <span class='ocr_line' id='line_1_3' title="bbox 1022 1739 1231 1743; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 1022 1739 1231 1743; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 906 1782 1350 1805">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 906 1782 1350 1805">
+     <span class='ocr_line' id='line_1_4' title="bbox 906 1782 1350 1805; baseline -0.002 0"><span class='ocrx_word' id='word_1_8' title='bbox 906 1783 929 1805; x_wconf 81' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_9' title='bbox 937 1782 981 1804; x_wconf 91' lang='lat' dir='ltr'>LL</span> <span class='ocrx_word' id='word_1_10' title='bbox 998 1782 1140 1804; x_wconf 79' lang='lat' dir='ltr'>RIGHTS</span> <span class='ocrx_word' id='word_1_11' title='bbox 1158 1782 1350 1804; x_wconf 79' lang='lat' dir='ltr'>RESERVED</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 960 1921 1130 1981">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 960 1921 1130 1981">
+     <span class='ocr_line' id='line_1_5' title="bbox 960 1921 1130 1981; baseline -0.006 -48"><span class='ocrx_word' id='word_1_12' title='bbox 960 1921 1025 1981; x_wconf 40' lang='lat' dir='ltr'>l-‘J</span> <span class='ocrx_word' id='word_1_13' title='bbox 1117 1922 1130 1932; x_wconf 71' lang='lat' dir='ltr'><em>F</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 985 2781 1275 3213">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 985 2781 1275 3213">
+     <span class='ocr_line' id='line_1_6' title="bbox 985 2781 1275 3213; baseline 0 256"><span class='ocrx_word' id='word_1_14' title='bbox 985 2781 1275 3213; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
